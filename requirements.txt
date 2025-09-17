@@ -1,0 +1,7 @@
+Django>=5.0,<6.0
+djangorestframework>=3.15,<3.16
+psycopg2-binary>=2.9,<3.0
+pytest>=8.0
+pytest-django>=4.8
+drf-spectacular>=0.27
+drf-spectacular-sidecar>=2024.7.1
